@@ -31,3 +31,7 @@ aplikasi ini juga menggunakan database untuk menghandle offline case.
 
    menggunakan combine untuk komunikasi antara controller dan viewmodel
 
+7. Domain.plist
+
+   berisi base url api dan base url image
+
