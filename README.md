@@ -35,3 +35,8 @@ aplikasi ini juga menggunakan database untuk menghandle offline case.
 
    berisi base url api dan base url image
 
+8. App
+
+   untuk menjalankan applikasi ini bisa double click file ModularMovie.xcworkspace.
+   
+
